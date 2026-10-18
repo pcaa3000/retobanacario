@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+  background: #f3f4f6;
+  color: #111827;
+}
+
+.burbuja {
+  max-width: 85%;
+  border-radius: 1rem;
+  padding: 0.6rem 0.9rem;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
